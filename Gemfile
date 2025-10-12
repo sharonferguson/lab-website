@@ -12,6 +12,7 @@ gem "rexml", "~> 3.3"
 gem "csv", "~> 3.3"
 # for _plugins/google-scholar-citations.rb
 gem "activesupport", "~> 7.2"
+gem "jekyll-email-protect", "~> 1.0"
 
 
 # If you really use it in _config.yml:
