@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.2.2"
+ruby "3.3.5"
 
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.8"           # needed for local serve on Ruby ≥3
