@@ -25,3 +25,5 @@ gem "jekyll-get-json", "~> 1.0"
 gem "jekyll-imagemagick", "~> 1.4"
 
 gem "mini_magick", "~> 5.3"
+
+gem "jekyll-jupyter-notebook", "~> 0.0.6"
