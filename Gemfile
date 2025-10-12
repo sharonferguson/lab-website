@@ -21,3 +21,7 @@ gem "jekyll-email-protect", "~> 1.0"
 gem "jekyll-feed", "~> 0.17"
 
 gem "jekyll-get-json", "~> 1.0"
+
+gem "jekyll-imagemagick", "~> 1.4"
+
+gem "mini_magick", "~> 5.3"
