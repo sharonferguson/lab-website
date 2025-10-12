@@ -17,3 +17,5 @@ gem "jekyll-email-protect", "~> 1.0"
 
 # If you really use it in _config.yml:
 # gem "jekyll-terser", github: "RobertoJBeltran/jekyll-terser"
+
+gem "jekyll-feed", "~> 0.17"
