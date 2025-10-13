@@ -1,13 +1,14 @@
 ---
-layout: page
-title: Publications
+layout: publications
 permalink: /publications/
+title: publications
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
+
 <!-- Start simple: show everything from the configured bib -->
-{% bibliography --query @* %}
+<!-- {% bibliography --query @* %} -->
 
 <!-- 
 <!-- _pages/publications.md -->
