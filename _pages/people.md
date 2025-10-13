@@ -13,7 +13,7 @@ nav_order: 7
   <!-- Photo -->
   <div class="col-12 col-md-3 mb-4 text-center">
     <img
-      src="{{ 'assets/img/headshot10-v2.webp' | relative_url }}"
+      src="{{ 'assets/img/headshot10-v2.jpg' | relative_url }}"
       alt="Sharon Ferguson"
       class="img-fluid rounded z-depth-1"
       loading="lazy">
