@@ -15,6 +15,7 @@ gem "activesupport", "~> 7.2"
 gem "jekyll-email-protect", "~> 1.0"
 gem "jekyll-link-attributes"
 gem "jekyll-minifier"
+gem "jekyll-paginate-v2"
 
 
 # If you really use it in _config.yml:
@@ -29,3 +30,24 @@ gem "jekyll-imagemagick", "~> 1.4"
 gem "mini_magick", "~> 5.3"
 
 gem "jekyll-jupyter-notebook", "~> 0.0.6"
+
+# gem "jekyll-regex-replace"
+
+
+
+
+
+
+
+
+
+
+
+#   - jekyll-regex-replace
+#   - jekyll/scholar
+#   - jekyll-sitemap
+#   - jekyll-tabs
+#   # - jekyll-terser
+#   - jekyll-toc
+#   - jekyll-twitter-plugin
+#   - jemoji
