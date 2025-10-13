@@ -1,0 +1,50 @@
+# phd:
+#   - name: Kimathi Kaai
+#     title: PhD (SyDE)
+#     photo: /assets/img/people/kimathi.jpg
+#   - name: Bavesh Balaji
+#     title: PhD (SyDE)
+#     photo: /assets/img/people/bavesh.jpg
+
+masters:
+  - name: Zayn Dhillon
+    title: MASc (MS&E)
+    photo: /assets/img/people/zayn.jpg
+
+undergrad:
+  - name: Devon Kisob
+    title: Undergraduate Research Assistant
+    photo: /assets/img/people/devon.jpg
+    linkedin:
+
+  - name: Jeevan Parmar
+    title: Undergraduate Research Assistant
+    photo: /assets/img/people/Jeevan.jpg
+    linkedin:
+
+  - name: Harsh Kalyani
+    title: Undergraduate Research Assistant
+    photo: /assets/img/people/Harsh.jpg
+    linkedin:
+
+  - name: Ulyana Drahun
+    title: Undergraduate Research Assistant
+    photo: /assets/img/people/Ulyana.jpg
+    linkedin:
+
+  - name: Keenan Ung
+      title: Undergraduate Research Assistant
+      photo: /assets/img/people/Keenan.jpg
+      linkedin:
+
+  - name: Mohammed Elshrief
+      title: Undergraduate Research Assistant
+      photo: /assets/img/people/Mohammed.jpg
+      linkedin:
+
+
+alumni:
+  - name: Vladyslav Humennyy
+    title: Mitacs Globallink Research Intern (Summer 2025)
+    photo: /assets/img/people/Vlad.jpg
+    linkedin:

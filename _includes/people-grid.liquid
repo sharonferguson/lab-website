@@ -1,0 +1,46 @@
+<div class="row">
+  {% assign list = include.list %}
+  {% for p in list %}
+  <div class="col-6 col-sm-4 col-md-3 text-center mb-5">
+
+    {% if p.linkedin %}
+      <a href="{{ p.linkedin }}" target="_blank" rel="noopener" aria-label="{{ p.name }} on LinkedIn">
+        <img
+          class="rounded-circle shadow-sm person-photo mb-2"
+          src="{{ p.photo | relative_url }}"
+          alt="{{ p.name }}"
+          loading="lazy"
+        >
+      </a>
+    {% else %}
+      <img
+        class="rounded-circle shadow-sm person-photo mb-2"
+        src="{{ p.photo | relative_url }}"
+        alt="{{ p.name }}"
+        loading="lazy"
+      >
+    {% endif %}
+
+    <div class="font-weight-bold">
+      {% if p.linkedin %}
+        <a href="{{ p.linkedin }}" target="_blank" rel="noopener">{{ p.name }}</a>
+      {% else %}
+        {{ p.name }}
+      {% endif %}
+    </div>
+
+    {% if p.title %}
+      <div class="text-muted small">{{ p.title }}</div>
+    {% endif %}
+
+    {% if p.linkedin %}
+      <div class="mt-1">
+        <a class="mx-1" href="{{ p.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn">
+          <i class="ti ti-brand-linkedin"></i>
+        </a>
+      </div>
+    {% endif %}
+
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,12 @@
+.person-photo {
+    width: 160px;
+    height: 160px;
+    object-fit: cover; // crop to a neat circle
+}
+
+@media (min-width: 992px) {
+    .person-photo {
+        width: 180px;
+        height: 180px;
+    }
+}
