@@ -16,3 +16,19 @@
         height: 40px;
     }
 }
+
+
+/* Tidy jekyll-scholar bibliography numbers alignment */
+ol.bibliography {
+    padding-left: 1.5rem;
+    /* ensures room for numbers */
+    list-style-position: outside;
+    /* numbers outside the block */
+    margin-left: 0;
+    /* avoid double indent on some themes */
+}
+
+ol.bibliography>li {
+    text-indent: 0;
+    margin-left: 0.25rem;
+}

@@ -197,6 +197,9 @@ exclude:
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/cv.md
   - docker-compose.yml
   - docker-compose-slim.yml
   - FAQ.md

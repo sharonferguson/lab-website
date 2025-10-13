@@ -1,7 +1,7 @@
 ---
 layout: profiles            # or: page   (both work; profiles shows a nice bio block)
 permalink: /people/
-title: People
+title: people
 description: Current and past members of SHARE Lab
 nav: true
 nav_order: 7
