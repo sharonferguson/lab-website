@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /publications/
 title: publications
+permalink: /publications/
 nav: true
-nav_order: 5
+nav_order: 3
 ---
-
-{% bibliography --file papers --query @* --sort_by year --order descending %}
+{% bibliography %}
 
