@@ -6,7 +6,7 @@ subtitle: Management Science and Engineering, University of Waterloo.
 
 profile:
   align: right
-  image: headshot10-v2.jpeg
+  image: headshot10-v2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Carl A. Pollock Hall</p>
