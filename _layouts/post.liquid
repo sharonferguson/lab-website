@@ -74,9 +74,6 @@ layout: default
     {% include citation.liquid %}
   {% endif %}
 
-  {% if page.autobib %}
-    {% bibliography --group_by none --cited_in_order %}
-  {% endif %}
 
 
   {% if site.related_blog_posts and site.related_blog_posts.enabled %}

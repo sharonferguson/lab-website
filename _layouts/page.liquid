@@ -18,10 +18,6 @@ layout: default
     {{ content }}
   </article>
 
-{% if page.autobib %}
-  {% bibliography --cited_in_order %}
-{% endif %}
-
 
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
