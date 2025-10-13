@@ -291,13 +291,13 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # in _config.yml
 scholar:
-  bibliography: assets/bibliography/papers.bib
-  csl: assets/bibliography/acm.csl
+  source: assets/bibliography     # folder that holds the files
+  bibliography: papers.bib        # filename only
+  csl: acm.csl                    # filename only
   locale: en
   bibliography_template: bib
   sort_by: year
   order: descending
-  query: "@*"
 
 
 # Display different badges withs stats for your publications
