@@ -1,5 +1,18 @@
-.brand-logo {
-    height: 32px;
+.navbar .brand-logo {
+    height: 28px;
     width: auto;
     display: block;
+    margin-right: .5rem;
+}
+
+@media (min-width: 576px) {
+    .navbar .brand-logo {
+        height: 36px;
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar .brand-logo {
+        height: 40px;
+    }
 }
