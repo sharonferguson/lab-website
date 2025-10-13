@@ -1,7 +1,7 @@
-/* --- Publications: fix number alignment with buttons --- */
+/* --- Publications: number alignment + visible action buttons --- */
 ol.bibliography {
     list-style: none;
-    /* turn off native numbers (prevents duplicates) */
+    /* prevents 1. 1. duplicates */
     counter-reset: pubs;
     margin: 0;
     padding-left: 0;
@@ -22,12 +22,34 @@ ol.bibliography>li::before {
     justify-self: end;
 }
 
+/* Put ALL children (citation text + links block) into the content column */
 ol.bibliography>li>* {
     grid-column: 3;
-    /* put citation text AND the PDF/Website .links here */
 }
 
-/* (optional) small space above buttons */
+/* --- Make sure the PDF/Website links are visible and styled --- */
 ol.bibliography>li .links {
-    margin-top: 0.25rem;
+    display: inline-flex !important;
+    /* override any hidden/collapsed styles */
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-top: 0.4rem;
+}
+
+ol.bibliography>li .links a,
+ol.bibliography>li .links .btn {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    border-radius: 0.375rem;
+    text-decoration: none;
+    border: 1px solid var(--global-theme-color, #6f42c1);
+    color: var(--global-theme-color, #6f42c1);
+    line-height: 1.2;
+    font-size: 0.925rem;
+}
+
+ol.bibliography>li .links a:hover,
+ol.bibliography>li .links .btn:hover {
+    background: var(--global-theme-color, #6f42c1);
+    color: #fff;
 }
