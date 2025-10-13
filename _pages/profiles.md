@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: people-grid
 permalink: /people/
 title: people
 description: Current and past members of SHARE Lab
@@ -36,7 +36,7 @@ profiles:
 {% include people-grid.liquid list=site.data.people.masters %}
 
 ## Undergraduate Researchers
-{% include people-grid.liquid list=site.data.people.undergrad %}
+{% include people-grid.liquid list=site.data.people.undergrads %}
 
 ## Alumni
 {% include people-grid.liquid list=site.data.people.alumni %}
