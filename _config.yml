@@ -291,7 +291,6 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # in _config.yml
 scholar:
-scholar:
   style: assets/bibliography/acm.csl   # or use csl: … (pick ONE, not both)
   bibliography: assets/bibliography/papers.bib
   locale: en
