@@ -2,14 +2,14 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
+      
       <a class="navbar-brand d-flex align-items-center" href="{{ '/' | relative_url }}">
-    <img
-      src="{{ '/assets/img/Group 3.svg' | relative_url }}"
-      alt="{{ site.title | default: 'Home' }}"
-      class="brand-logo mr-2"
-    />
-    <span class="title font-weight-lighter">{{ site.title }}</span>
-  </a>
+        <img src="{{ '/assets/img/Group 3.svg' | relative_url }}"
+          alt="{{ site.title | default: 'Home' }}"
+          class="brand-logo mr-2"
+          width="28" height="28" />
+        <span class="title font-weight-lighter">{{ site.title }}</span>
+      </a>
 
 
       {% if site.enable_navbar_social %}
