@@ -46,6 +46,8 @@ GEM
       time (< 1.0)
     csl-styles (2.0.1)
       csl (~> 2.0)
+    css_parser (1.21.1)
+      addressable
     cssminify2 (2.1.0)
     csv (3.3.4)
     date (3.4.1)
@@ -266,6 +268,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (~> 7.2)
+  css_parser (~> 1.16)
   csv (~> 3.3)
   jekyll (~> 4.3)
   jekyll-email-protect (~> 1.0)

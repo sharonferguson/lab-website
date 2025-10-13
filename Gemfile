@@ -17,6 +17,9 @@ gem "jekyll-link-attributes"
 gem "jekyll-minifier"
 gem "jekyll-paginate-v2"
 
+gem "css_parser", "~> 1.16"
+
+
 
 # If you really use it in _config.yml:
 # gem "jekyll-terser", github: "RobertoJBeltran/jekyll-terser"
