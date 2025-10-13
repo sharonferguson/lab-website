@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -447,8 +440,8 @@ ninja.data = [{
           section: "News",},{id: "news-sharon-will-be-at-cscw-2025-in-bergen-norway-supporting-the-presentation-of-marjan-s-work-two-sides-to-every-story-exploring-hybrid-design-teams-perceptions-of-psychological-safety-on-slack",
           title: 'Sharon will be at CSCW 2025 in Bergen, Norway supporting the presentation of...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-developing-ai-enabled-teamwork-support",
+          title: 'Developing AI-Enabled Teamwork Support',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
