@@ -286,15 +286,15 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  source: bibliography            # the folder that contains your files
-  bibliography: papers.bib        # your bib file name
-  style: bibliography/acm.csl     # or apa.csl, nature.csl, etc.
+  source: .
+  bibliography: bibliography/papers.bib
   csl: bibliography/acm.csl
   locale: en
   bibliography_template: bib
   sort_by: year
   order: descending
   query: "@*"
+
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
