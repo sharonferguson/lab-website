@@ -200,6 +200,8 @@ exclude:
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/cv.md
+  - _pages/blog.md
+  - _pages/bookshelf.md
   - docker-compose.yml
   - docker-compose-slim.yml
   - FAQ.md
