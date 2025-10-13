@@ -14,7 +14,7 @@ gem "csv", "~> 3.3"
 gem "activesupport", "~> 7.2"
 gem "jekyll-email-protect", "~> 1.0"
 gem "jekyll-link-attributes"
-
+gem "jekyll-minifier"
 
 
 # If you really use it in _config.yml:
