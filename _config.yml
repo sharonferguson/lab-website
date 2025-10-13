@@ -286,7 +286,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  source: .
+  source: assets
   bibliography: bibliography/papers.bib
   csl: bibliography/acm.csl
   locale: en
