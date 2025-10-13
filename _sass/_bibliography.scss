@@ -1,8 +1,7 @@
-/* --- Fix bibliography numbering alignment --- */
+/* --- Fix bibliography numbering alignment AND keep action buttons --- */
 ol.bibliography {
     counter-reset: pubs;
     list-style: none;
-    /* ignore browser numbering */
     padding-left: 0;
     margin-top: 0;
 }
@@ -10,14 +9,19 @@ ol.bibliography {
 ol.bibliography>li {
     counter-increment: pubs;
     display: grid;
-    grid-template-columns: 2.5ch 1rem 1fr;
+    grid-template-columns: auto 0.75rem minmax(0, 1fr);
     /* number | gap | content */
     align-items: start;
-    /* align number with first line of content */
     margin-bottom: 1rem;
 }
 
 ol.bibliography>li::before {
     content: counter(pubs) ".";
-    text-align: right;
+    grid-column: 1;
+    justify-self: end;
+}
+
+ol.bibliography>li>* {
+    grid-column: 3;
+    /* <-- ensures the citation text + .links buttons render here */
 }
