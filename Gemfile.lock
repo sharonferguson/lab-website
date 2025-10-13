@@ -103,6 +103,7 @@ GEM
       terser (~> 1.2.3)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
+    jekyll-regex-replace (1.1.0)
     jekyll-remote-theme (0.4.3)
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
@@ -218,6 +219,7 @@ DEPENDENCIES
   jekyll-link-attributes
   jekyll-minifier
   jekyll-paginate-v2
+  jekyll-regex-replace
   jekyll-remote-theme (~> 0.4.3)
   jekyll-spaceship (~> 0.10)
   jekyll-toc (~> 0.18)

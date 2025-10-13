@@ -31,19 +31,11 @@ gem "mini_magick", "~> 5.3"
 
 gem "jekyll-jupyter-notebook", "~> 0.0.6"
 
-# gem "jekyll-regex-replace"
+gem "jekyll-regex-replace"
 
 
 
 
-
-
-
-
-
-
-
-#   - jekyll-regex-replace
 #   - jekyll/scholar
 #   - jekyll-sitemap
 #   - jekyll-tabs
