@@ -41,9 +41,7 @@ gem "jekyll-tabs"
 
 gem "jekyll-terser"
 
-gem "jekyll-toc"
 
 gem "jekyll-twitter-plugin"
 
 gem "jemoji"
-
