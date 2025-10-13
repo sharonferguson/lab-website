@@ -5,18 +5,12 @@
       <a class="navbar-brand d-flex align-items-center" href="{{ '/' | relative_url }}">
         <img
           src="{{ '/assets/img/Group 3.svg' | relative_url }}"
-          alt="{{ site.title }} logo"
+          alt="{{ site.title | default: 'Home' }}"
           class="brand-logo mr-2"
-        >
-        <span class="title font-weight-lighter d-none d-sm-inline">
-          {% if site.title == 'blank' and site.first_name %}
-            <span class="font-weight-bold">{{ site.first_name }}</span>
-            {% if site.middle_name %} {{ site.middle_name }}{% endif %}
-            {% if site.last_name %} {{ site.last_name }}{% endif %}
-          {% else %}
-            {{ site.title }}
-          {% endif %}
-        </span>
+          width="28" height="28"      <!-- hard cap -->
+          style="height:32px;width:auto;display:block"  <!-- fallback if CSS not loaded -->
+        />
+        <span class="title font-weight-lighter">{{ site.title }}</span>
       </a>
 
       {% if site.enable_navbar_social %}
