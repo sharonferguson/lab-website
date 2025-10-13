@@ -1,8 +1,8 @@
-name: Build and deploy Jekyll to GitHub Pages
+name: Build and Deploy (Custom Jekyll)
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -20,34 +20,31 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Required so Pages knows how to serve the artifact (base path, CNAME, etc.)
-      - uses: actions/configure-pages@v5
-
-      # If your site needs ImageMagick (e.g., jekyll-imagemagick)
       - name: Install ImageMagick
         run: sudo apt-get update && sudo apt-get install -y imagemagick
 
-
-      - uses: ruby/setup-ruby@v1
+      - name: Set up Ruby 3.3
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.5'
+          ruby-version: '3.3.5'   # <-- forces 3.3.x
           bundler-cache: true
 
-      - run: bundle lock --add-platform x86_64-linux
-      - run: bundle install --jobs 4
+      - name: Lock linux platform
+        run: bundle lock --add-platform x86_64-linux
 
-      # Build the site into ./_site
-      - name: Build with Jekyll
+      - name: Install gems
+        run: bundle install --jobs 4
+
+      - name: Build site
         uses: actions/jekyll-build-pages@v1
         with:
           source: .
-          destination: ./_site
+          destination: _site
 
-      # Upload build artifact for Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          path: _site
 
   deploy:
     needs: build
@@ -55,9 +52,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      pages: write
-      id-token: write
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
