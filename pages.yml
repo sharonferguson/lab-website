@@ -1,8 +1,8 @@
-name: Build and Deploy (Custom Jekyll)
+name: Build and deploy Jekyll to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -11,23 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
-name: Build and Deploy Jekyll
-
-on:
-  push:
-    branches: ["main"]
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: true
 
 jobs:
@@ -36,27 +20,31 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # if your site (e.g., jekyll-imagemagick) needs ImageMagick
-      - run: sudo apt-get update && sudo apt-get install -y imagemagick
+      # Required so Pages knows how to serve the artifact (base path, CNAME, etc.)
+      - uses: actions/configure-pages@v5
+
+      # If your site needs ImageMagick (e.g., jekyll-imagemagick)
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.5'
+          ruby-version: '3.3'
           bundler-cache: true
 
-      # ensure the lockfile works on GitHub runners
       - run: bundle lock --add-platform x86_64-linux
-
       - run: bundle install --jobs 4
 
-      # build the site
-      - uses: actions/jekyll-build-pages@v1
+      # Build the site into ./_site
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
           source: .
           destination: ./_site
 
-      # upload artifact for Pages
-      - uses: actions/upload-pages-artifact@v3
+      # Upload build artifact for Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
 
@@ -66,7 +54,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
-
