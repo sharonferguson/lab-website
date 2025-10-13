@@ -290,8 +290,7 @@ scholar:
   first_name: [Sharon]
 
   style: acm-sig-proceedings
-  bibliography: _bibliography/papers.bib
-  # csl: _bibliography/acm.csl       # or apa.csl, nature.csl, etc.
+  bibliography: /papers.bib
   locale: en
   source: _bibliography
   bibliography_template: bib           # al-folio ships a template named bib.html
