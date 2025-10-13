@@ -286,18 +286,15 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ferguson]
-  first_name: [Sharon]
-
-  style: acm-sig-proceedings
-  bibliography: /papers.bib
+  source: bibliography            # the folder that contains your files
+  bibliography: papers.bib        # your bib file name
+  style: bibliography/acm.csl     # or apa.csl, nature.csl, etc.
+  csl: bibliography/acm.csl
   locale: en
-  source: _bibliography
-  bibliography_template: bib           # al-folio ships a template named bib.html
+  bibliography_template: bib
   sort_by: year
   order: descending
-  details_dir: bibliography            # where per-paper pages go, if enabled
-  query: "@*"   
+  query: "@*"
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
