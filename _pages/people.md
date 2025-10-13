@@ -36,11 +36,3 @@ nav_order: 7
 ## Alumni
 {% include people-grid.liquid list=site.data.people.alumni %}
 
-## Graduate Students (MASc)
-{% include people-grid.liquid list=site.data.people.masters %}
-
-## Undergraduate Researchers
-{% include people-grid.liquid list=site.data.people.undergrad %}
-
-## Alumni
-{% include people-grid.liquid list=site.data.people.alumni %}
