@@ -291,11 +291,11 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 # in _config.yml
 scholar:
-  style: assets/bibliography/acm.csl   # or use csl: … (pick ONE, not both)
+  repository: .
+  source: .
   bibliography: assets/bibliography/papers.bib
-  locale: en
-  sort_by: year
-  order: descending
+  style: assets/bibliography/acm.csl
+
 
 
 # Display different badges withs stats for your publications
