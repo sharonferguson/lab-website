@@ -33,6 +33,11 @@ back_to_top: true # set to false to disable the back to top button
 # - run: pip install --upgrade pip
 # - run: pip install nbconvert jupyterlab_pygments
 
+logo: /assets/img/Group 3.svg
+logo_alt: UW SHARE Lab
+show_title_next_to_logo: true
+
+
 
 # -----------------------------------------------------------------------------
 # Theme

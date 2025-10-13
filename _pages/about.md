@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The SHARE Lab at the University of Waterloo is led by Prof. Sharon Ferguson, and focuses on enabling successful human-human collaboration through thoughtful technology design. We conduct research at the intersection of the Future of Work, Human-AI Interaction, and Computer-Supported Cooperative Work.
+The SHARE Lab (Social and Human-centered AI for Reimagined Engagement) at the University of Waterloo is led by Prof. Sharon Ferguson, and focuses on enabling successful human-human collaboration through thoughtful technology design. We conduct research at the intersection of the Future of Work, Human-AI Interaction, and Computer-Supported Cooperative Work.
 
 Prof. Ferguson an Assistant Professor of Management Science and Engineering at the University of Waterloo, and is associated with the [Future of Work Institute](https://uwaterloo.ca/future-of-work-institute/), the [Games Institute](https://uwaterloo.ca/games-institute/) and the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/). She completed her Bachelors and PhD in Industrial Engineering at the University of Toronto, supervised by [Dr. Alison Olechowski](https://readylab.mie.utoronto.ca/). 
 

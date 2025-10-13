@@ -1,0 +1,29 @@
+<style>
+    .site-corner-logo {
+        position: fixed;
+        top: 16px;
+        left: 16px;
+        z-index: 1000;
+    }
+
+    .site-corner-logo img {
+        height: 36px;
+        /* tweak as you like */
+        width: auto;
+        display: block;
+        filter: none;
+        /* or brightness(0) invert(1) for dark headers */
+    }
+
+    @media (max-width: 768px) {
+        .site-corner-logo {
+            top: 10px;
+            left: 10px;
+        }
+
+        .site-corner-logo img {
+            height: 28px;
+        }
+    }
+
+</style>
