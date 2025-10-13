@@ -39,7 +39,6 @@ gem "jekyll-sitemap"
 
 gem "jekyll-tabs"
 
-gem "jekyll-terser"
 
 
 gem "jemoji"
