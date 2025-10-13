@@ -33,13 +33,17 @@ gem "jekyll-jupyter-notebook", "~> 0.0.6"
 
 gem "jekyll-regex-replace"
 
+gem "jekyll-scholar"
 
+gem "jekyll-sitemap"
 
+gem "jekyll-tabs"
 
-#   - jekyll/scholar
-#   - jekyll-sitemap
-#   - jekyll-tabs
-#   # - jekyll-terser
-#   - jekyll-toc
-#   - jekyll-twitter-plugin
-#   - jemoji
+gem "jekyll-terser"
+
+gem "jekyll-toc"
+
+gem "jekyll-twitter-plugin"
+
+gem "jemoji"
+
