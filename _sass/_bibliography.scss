@@ -1,18 +1,19 @@
-/* --- Fix bibliography numbering alignment AND keep action buttons --- */
+/* --- Publications: fix number alignment with buttons --- */
 ol.bibliography {
-    counter-reset: pubs;
     list-style: none;
+    /* turn off native numbers (prevents duplicates) */
+    counter-reset: pubs;
+    margin: 0;
     padding-left: 0;
-    margin-top: 0;
 }
 
 ol.bibliography>li {
     counter-increment: pubs;
     display: grid;
-    grid-template-columns: auto 0.75rem minmax(0, 1fr);
+    grid-template-columns: max-content 0.75rem minmax(0, 1fr);
     /* number | gap | content */
     align-items: start;
-    margin-bottom: 1rem;
+    margin-bottom: 1.25rem;
 }
 
 ol.bibliography>li::before {
@@ -23,5 +24,10 @@ ol.bibliography>li::before {
 
 ol.bibliography>li>* {
     grid-column: 3;
-    /* <-- ensures the citation text + .links buttons render here */
+    /* put citation text AND the PDF/Website .links here */
+}
+
+/* (optional) small space above buttons */
+ol.bibliography>li .links {
+    margin-top: 0.25rem;
 }

@@ -10,20 +10,11 @@ nav_order: 7
 ---
 
 <div class="row align-items-start">
-  <!-- Photo -->
-  <div class="col-12 col-md-3 mb-4">
-    {% include figure.html
-      path="assets/img/people/sharon.jpg"   # <-- put your headshot here
-      alt="Sharon Ferguson"
-      class="img-fluid rounded z-depth-1"
-    %}
+  <div class="col-12 col-md-3 mb-4 text-center">
+    {% include figure.html path="assets/img/headshot10-v2.jpg" alt="Sharon Ferguson" class="img-fluid rounded z-depth-1" %}
   </div>
-
-  <!-- About text -->
   <div class="col-12 col-md-9">
-    {% capture about %}
-      {% include_relative about_sharon.md %}
-    {% endcapture %}
+    {% capture about %}{% include_relative about_sharon.md %}{% endcapture %}
     {{ about | markdownify }}
   </div>
 </div>
