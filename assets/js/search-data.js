@@ -418,9 +418,9 @@ ninja.data = [{
           description: "Studying how collaboration norms change in the modern workplace",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-human-ai-collaboration-in-subjective-contexts",
+          title: 'Human-AI Collaboration in Subjective Contexts',
+          description: "Uncovering the benefits and dangers of AI-supported subjective decision-making",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
