@@ -410,7 +410,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-developing-ai-enabled-teamwork-support",
           title: 'Developing AI-Enabled Teamwork Support',
-          description: "with background image",
+          description: "AI-enabled support for human-human teamwork",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
