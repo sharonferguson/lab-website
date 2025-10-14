@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Promoting Student Persistence in AI
-description: another without an image
+description: Studying the factors that influence student pathways in AI careers
 img: assets/img/persistence.jpg
 importance: 4
 project_key: persistence

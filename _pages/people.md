@@ -2,7 +2,7 @@
 layout: page           # or: page   (both work; profiles shows a nice bio block)
 permalink: /people/
 title: people
-description: Current and past members of SHARE Lab
+description: Current and past members and collaborators of SHARE Lab
 nav: true
 nav_order: 7
 
@@ -35,3 +35,6 @@ nav_order: 7
 
 ## Alumni
 {% include people-grid.liquid list=site.data.people.alumni %}
+
+## Student Collaborators
+{% include people-grid.liquid list=site.data.people.collaborators %}
