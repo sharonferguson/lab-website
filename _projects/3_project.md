@@ -3,7 +3,6 @@ layout: page
 title: Human-AI Collaboration in Subjective Contexts
 description: Uncovering the benefits and dangers of AI-supported subjective decision-making
 img: assets/img/h-ai.jpg
-redirect: https://unsplash.com
 importance: 3
 project_key: h-ai
 category: work
