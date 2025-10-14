@@ -10,7 +10,7 @@ masters:
   - name: Zayn Dhillon
     title: MASc (MS&E)
     photo: /assets/img/zayn.jpg
-    linkedin: https://www.linkedin.com/in/student-a/
+    linkedin: https://www.linkedin.com/in/zayndhillon/
 
 undergrad:
   - name: Devon Kisob
@@ -26,7 +26,7 @@ undergrad:
   - name: Harsh Kalyani
     title: Undergraduate Research Assistant
     photo: /assets/img/Harsh.jpg
-    linkedin: https://www.linkedin.com/in/student-a/
+    linkedin: https://www.linkedin.com/in/harshlc/
 
   - name: Ulyana Drahun
     title: Undergraduate Research Assistant
@@ -41,7 +41,7 @@ undergrad:
   - name: Mohammed Elshrief
     title: Undergraduate Research Assistant
     photo: /assets/img/Mohammed.jpg
-    linkedin: https://www.linkedin.com/in/student-a/
+    linkedin: https://www.linkedin.com/in/mohammed-elshrief?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
   - name: Ryan Chan
     title: Undergraduate Research Assistant
@@ -54,4 +54,4 @@ alumni:
   - name: Vladyslav Humennyy
     title: Mitacs Globallink Research Intern (Summer 2025)
     photo: /assets/img/Vlad.jpg
-    linkedin: https://www.linkedin.com/in/student-a/
+    linkedin: https://www.linkedin.com/in/vladyslav-humennyy/
