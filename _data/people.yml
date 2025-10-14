@@ -16,7 +16,7 @@ undergrad:
   - name: Devon Kisob
     title: Undergraduate Research Assistant
     photo: /assets/img/devon.jpg
-    linkedin: https://www.linkedin.com/in/student-a/
+    linkedin: https://www.linkedin.com/in/devonkisob/
 
   - name: Jeevan Parmar
     title: Undergraduate Research Assistant
@@ -43,7 +43,7 @@ undergrad:
     photo: /assets/img/Mohammed.jpg
     linkedin: https://www.linkedin.com/in/student-a/
 
- - name: Ryan Chan
+  - name: Ryan Chan
     title: Undergraduate Research Assistant
     photo: /assets/img/ryan.jpg
     linkedin: https://www.linkedin.com/in/ryanachan
