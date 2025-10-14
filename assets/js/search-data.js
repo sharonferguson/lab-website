@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "Current and past members of SHARE Lab",
+          description: "Current and past members and collaborators of SHARE Lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -411,7 +411,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-promoting-student-persistence-in-ai",
           title: 'Promoting Student Persistence in AI',
-          description: "another without an image",
+          description: "Studying the factors that influence student pathways in AI careers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
