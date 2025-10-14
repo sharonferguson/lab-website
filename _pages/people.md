@@ -33,8 +33,8 @@ nav_order: 7
 ## Undergraduate Researchers
 {% include people-grid.liquid list=site.data.people.undergrad %}
 
-## Alumni
-{% include people-grid.liquid list=site.data.people.alumni %}
-
 ## Student Collaborators
 {% include people-grid.liquid list=site.data.people.collaborators %}
+
+## Alumni
+{% include people-grid.liquid list=site.data.people.alumni %}
