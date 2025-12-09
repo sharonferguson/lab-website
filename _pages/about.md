@@ -36,6 +36,8 @@ We are always looking for enthusiastic students to join our lab! If you are inte
 **Areas of Interest**
 Human-Computer Interaction | Flexible Working Practices | Collaboration and Teamwork | Collaboration Technology | Enterprise Communication Platforms | Artificial Intelligence | Engineering Education
 
+![SHARE Lab big picture](/assets/img/big-picture.jpg){: .img-fluid .rounded-3 style="width:100%; max-width:1100px; display:block; margin: 1.5rem auto;" }
+
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
