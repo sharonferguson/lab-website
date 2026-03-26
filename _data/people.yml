@@ -8,35 +8,66 @@
 
 masters:
   - name: Zayn Dhillon
-    title: MASc (MS&E)
+    title: Master's Student (MSE)
     photo: /assets/img/zayn.jpg
     linkedin: https://www.linkedin.com/in/zayndhillon/
 
-undergrad:
-  - name: Devon Kisob
-    title: Undergraduate Research Assistant
-    photo: /assets/img/devon.jpg
-    linkedin: https://www.linkedin.com/in/devonkisob/
+  - name: Sofiia Stelmakh
+    title: Master's Student (MSE)
+    photo: /assets/img/Sofiia.jpg
+    linkedin: https://www.linkedin.com/in/sofiia-stelmakh/
 
+  - name: Kate Percy-Robb
+    title: Master's Student (MSE)
+    photo: /assets/img/Kate.jpg
+    linkedin: https://www.linkedin.com/in/kathryn-percy-robb/
+
+  - name: Keenan Ung
+    title: Master's Student (MSE)
+    photo: /assets/img/Keenan.jpg
+    linkedin: https://www.linkedin.com/in/keenan-ung/
+
+undergrad:  
   - name: Jeevan Parmar
     title: Undergraduate Research Assistant
     photo: /assets/img/Jeevan.jpg
     linkedin: https://www.linkedin.com/in/jeevan-parmar-62b464194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-  - name: Harsh Kalyani
+  - name: Salma El Gohary
     title: Undergraduate Research Assistant
-    photo: /assets/img/harsh.jpg
-    linkedin: https://www.linkedin.com/in/harshlc/
+    photo: /assets/img/Salma.jpg
+    linkedin: https://www.linkedin.com/in/salmaelgohary/
+
+  - name: Zi Yi Zou
+    title: NSERC Research Student
+    photo: /assets/img/Tim.jpg
+    linkedin: https://www.linkedin.com/in/ziyiizou/
+
+  - name: Kanika Prajapati
+    title: Undergraduate Research Assistant
+    photo: /assets/img/Kanika.jpg
+    linkedin: https://www.linkedin.com/in/kanika-prajapati/
+
+alumni:
+  - name: Devon Kisob
+    title: Undergraduate Research Assistant
+    photo: /assets/img/devon.jpg
+    linkedin: https://www.linkedin.com/in/devonkisob/
+
+  - name: Vladyslav Humennyy
+    title: Mitacs Globallink Research Intern (Summer 2025)
+    photo: /assets/img/Vlad.jpg
+    linkedin: https://www.linkedin.com/in/vladyslav-humennyy/
 
   - name: Ulyana Drahun
     title: Undergraduate Research Assistant
     photo: /assets/img/ulyana.jpg
     linkedin: https://www.linkedin.com/in/ulyana-drahun/
 
-  - name: Keenan Ung
+  - name: Harsh Kalyani
     title: Undergraduate Research Assistant
-    photo: /assets/img/Keenan.png
-    linkedin: https://www.linkedin.com/in/keenan-ung/
+    photo: /assets/img/harsh.jpg
+    linkedin: https://www.linkedin.com/in/harshlc/
 
   - name: Mohammed Elshrief
     title: Undergraduate Research Assistant
@@ -47,15 +78,6 @@ undergrad:
     title: Undergraduate Research Assistant
     photo: /assets/img/ryan.jpg
     linkedin: https://www.linkedin.com/in/ryanachan
-    
-
-
-alumni:
-  - name: Vladyslav Humennyy
-    title: Mitacs Globallink Research Intern (Summer 2025)
-    photo: /assets/img/Vlad.jpg
-    linkedin: https://www.linkedin.com/in/vladyslav-humennyy/
-
 
 collaborators:
   - name: Marjan Naghshbandi
