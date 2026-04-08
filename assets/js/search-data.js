@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-in-collaboration-with-dr-alison-olechowski-and-dr-sirisha-rambhatla-sharon-was-awarded-the-microsoft-ai-amp-amp-the-new-future-of-work-grant-for-a-project-titled-a-novel-ai-powered-system-for-building-shared-understanding-in-teams",
+        },{id: "news-in-collaboration-with-dr-alison-olechowski-and-dr-sirisha-rambhatla-sharon-was-awarded-the-microsoft-ai-amp-amp-the-new-future-of-work-grant-for-a-project-titled-a-novel-ai-powered-system-for-building-shared-understanding-in-teams",
           title: 'In collaboration with Dr. Alison Olechowski and Dr. Sirisha Rambhatla, Sharon was awarded...',
           description: "",
           section: "News",},{id: "news-sharon-started-a-visiting-studentship-in-mechanical-engineering-massachusetts-institute-of-technology-under-the-supervision-of-dr-david-wallace-and-dr-james-magarian",
