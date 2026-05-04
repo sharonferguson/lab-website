@@ -40,9 +40,9 @@ Human-Computer Interaction | Flexible Working Practices | Collaboration and Team
 
 ![SHARE Lab big picture_2](/assets/img/SHARE Lab-S2026.jpg){: .img-fluid .rounded-3 style="width:100%; max-width:1100px; display:block; margin: 5rem auto;" } -->
 
-<div style="display:flex; gap:1.5rem; margin: 5rem auto; max-width:1100px;">
-  <img src="/assets/img/big-picture.jpg" class="img-fluid rounded-3" style="width:50%; object-fit:cover;" alt="SHARE Lab big picture" />
-  <img src="/assets/img/SHARE Lab-S2026.jpg" class="img-fluid rounded-3" style="width:50%; object-fit:cover;" alt="SHARE Lab big picture 2" />
+<div style="display:flex; gap:1.5rem; margin: 5rem auto; width:100%;">
+  <img src="/assets/img/big-picture.jpg" class="img-fluid rounded-3" style="flex:1; min-width:0; object-fit:cover; max-height:500px;" alt="SHARE Lab big picture" />
+  <img src="/assets/img/SHARE Lab-S2026.jpg" class="img-fluid rounded-3" style="flex:1; min-width:0; object-fit:cover; max-height:500px;" alt="SHARE Lab big picture 2" />
 </div>
 
 
