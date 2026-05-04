@@ -38,6 +38,8 @@ Human-Computer Interaction | Flexible Working Practices | Collaboration and Team
 
 ![SHARE Lab big picture](/assets/img/big-picture.jpg){: .img-fluid .rounded-3 style="width:100%; max-width:1100px; display:block; margin: 5rem auto;" }
 
+![SHARE Lab big picture](/assets/img/SHARE Lab-S2026.jpg){: .img-fluid .rounded-3 style="width:100%; max-width:1100px; display:block; margin: 5rem auto;" }
+
 
 
 <!-- 
