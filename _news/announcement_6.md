@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-26
+date: 2024-12-02
 inline: true
 related_posts: false
 ---
 
-In collaboration with Dr. Anastasia Kuzminykh and Paula Akemi Aoyagui, Sharon led a workshop entitled ``The Role of AI-Empowered Machine Subjectivity in HCI Tasks'' at the 2025 Graphics Interface Conference in Kelowna, BC. 
+Sharon successfully defended her PhD in Mechanical and Industrial Engineering (title: The Future of Engineering Work: Exploring Innovation Influences on Enterprise Communication Platforms) at the University of Toronto.

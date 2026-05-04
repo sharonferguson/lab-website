@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-12
+date: 2026-03-08
 inline: true
 related_posts: false
 ---
 
-Sharon will be at CSCW 2025 in Bergen, Norway supporting the presentation of Marjan's work: [Two Sides to Every Story: Exploring Hybrid Design Teams' Perceptions of Psychological Safety on Slack](https://arxiv.org/abs/2508.11788)
+Sharon was invited to speak on a Women in Academia panel at the 2026 International Women's Day Gala at the University of Toronto. 

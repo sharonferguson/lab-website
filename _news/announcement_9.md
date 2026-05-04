@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-06-14
+date: 2025-04-26
 inline: true
 related_posts: false
 ---
 
-In collaboration with Dr. Alison Olechowski and Dr. Sirisha Rambhatla, Sharon was awarded the Microsoft AI & The New Future of Work Grant for a project titled "A Novel AI-Powered System for Building Shared Understanding in Teams"
+Our paper, "Matter of Perspective(s): Contrasting Human and LLM Argumentation in Subjective Decision-Making on Subtle Sexism" was published at CHI 2025, and presented in Yokohama, Japan by Paula Akemi Aoyagui.
+

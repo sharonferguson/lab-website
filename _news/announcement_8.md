@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-01
+date: 2025-05-26
 inline: true
 related_posts: false
 ---
 
-Sharon started a visiting studentship in Mechanical Engineering, Massachusetts Institute of Technology under the supervision of Dr. David Wallace and Dr. James Magarian.
+In collaboration with Dr. Anastasia Kuzminykh and Paula Akemi Aoyagui, Sharon led a workshop entitled ``The Role of AI-Empowered Machine Subjectivity in HCI Tasks'' at the 2025 Graphics Interface Conference in Kelowna, BC. 
