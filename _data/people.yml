@@ -39,7 +39,7 @@ undergrad:
     linkedin: https://www.linkedin.com/in/salmaelgohary/
 
   - name: Zi Yi Zou
-    title: NSERC Research Student
+    title: Undergraduate Research Assistant
     photo: /assets/img/Tim.jpg
     linkedin: https://www.linkedin.com/in/ziyiizou/
 
@@ -58,11 +58,17 @@ undergrad:
     photo: /assets/img/Drishti.jpg
     linkedin: https://www.linkedin.com/in/drishti-gadi/
 
-alumni:
-  - name: Devon Kisob
+  - name: Drishti Gadi
     title: Undergraduate Research Assistant
-    photo: /assets/img/devon.jpg
-    linkedin: https://www.linkedin.com/in/devonkisob/
+    photo: /assets/img/Drishti.jpg
+    linkedin: https://www.linkedin.com/in/drishti-gadi/
+
+  - name: Arnav Sareen
+    title: Mitacs Research Student
+    photo: /assets/img/Arnav.jpg
+    linkedin: https://www.linkedin.com/in/arnavsareen/
+
+alumni:
 
   - name: Vladyslav Humennyy
     title: Mitacs Globallink Research Intern (Summer 2025)
