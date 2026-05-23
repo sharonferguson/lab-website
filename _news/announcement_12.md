@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Lab recruited three new undergraduate students for this summer. Welcome: Jewel, Drishti, and Arnav!
+Three new research students will be joining us for the summer! Welcome: Jewel, Drishti, and Arnav!
