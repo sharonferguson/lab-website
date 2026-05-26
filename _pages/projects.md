@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A broad overview of the SHARE Lab areas of research
 nav: true
