@@ -1,11 +1,3 @@
-# phd:
-#   - name: Kimathi Kaai
-#     title: PhD (SyDE)
-#     photo: /assets/img/people/kimathi.jpg
-#   - name: Bavesh Balaji
-#     title: PhD (SyDE)
-#     photo: /assets/img/people/bavesh.jpg
-
 masters:
   - name: Zayn Dhillon
     title: Master's Student (MSE)
@@ -22,16 +14,17 @@ masters:
     photo: /assets/img/Kate.jpg
     linkedin: https://www.linkedin.com/in/kathryn-percy-robb/
 
+  - name: Jeevan Parmar
+    title: Undergraduate Research Assistant
+    photo: /assets/img/Jeevan.jpg
+    linkedin: https://www.linkedin.com/in/jeevan-parmar-62b464194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
   - name: Keenan Ung
     title: Master's Student (MSE)
     photo: /assets/img/Keenan.jpg
     linkedin: https://www.linkedin.com/in/keenan-ung/
 
 undergrad:  
-  - name: Jeevan Parmar
-    title: Undergraduate Research Assistant
-    photo: /assets/img/Jeevan.jpg
-    linkedin: https://www.linkedin.com/in/jeevan-parmar-62b464194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
   - name: Salma El Gohary
     title: Undergraduate Research Assistant
@@ -58,10 +51,10 @@ undergrad:
     photo: /assets/img/Drishti.jpg
     linkedin: https://www.linkedin.com/in/drishti-gadi/
 
-  - name: Arnav Sareen
+  - name: Sana Jamal Ansari
     title: Mitacs Research Student
-    photo: /assets/img/Arnav.jpg
-    linkedin: https://www.linkedin.com/in/arnavsareen/
+    photo: /assets/img/Sana.jpg
+    linkedin: https://www.linkedin.com/in/sana-jamal-ansari/
 
 alumni:
 
@@ -96,8 +89,12 @@ collaborators:
     photo: /assets/img/marjan.jpg
     linkedin: https://www.linkedin.com/in/marjan-nagh/
 
-
   - name: Paula Akemi Aoyagui
     title: PhD student (University of Toronto)
     photo: /assets/img/paula.jpg
     linkedin: https://www.linkedin.com/in/paula-akemi/
+
+  - name: Arnav Sareen
+    title: Undergraduate (University of North Carolina at Charlotte)
+    photo: /assets/img/Arnav.jpg
+    linkedin: https://www.linkedin.com/in/arnavsareen/
