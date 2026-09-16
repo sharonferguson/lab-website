@@ -27,7 +27,7 @@ nav_order: 7
 </div>
 
 
-## Graduate Students (MASc)
+## Graduate Students
 {% include people-grid.liquid list=site.data.people.masters %}
 
 ## Undergraduate Researchers
