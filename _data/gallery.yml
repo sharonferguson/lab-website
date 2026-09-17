@@ -108,22 +108,22 @@ collections:
   - title: Graphics Interface
     caption: Highlights from the Graphics Interface conference, Spring 2026.
     photos:
-      - file: GraphicsInterface_1.jpg
-        alt: Graphics Interface photo 1
+      - file: S2026_GI_1.jpg
+        alt: Graphics Interface 2026 photo 1
         width: 4000
         height: 1848
         layout: wide
-      - file: GraphicsInterface_2.jpg
-        alt: Graphics Interface photo 2
+      - file: S2026_GI_2.jpg
+        alt: Graphics Interface 2026 photo 2
         width: 4000
         height: 1848
         layout: wide
-      - file: GraphicsInterface_3.jpg
-        alt: Graphics Interface photo 3
+      - file: S2026_GI_3.jpg
+        alt: Graphics Interface 2026 photo 3
         width: 4000
         height: 1848
         layout: wide
-      - file: GraphicsInterface_4.jpg
+      - file: S2026_GI_4.jpg
         alt: Graphics Interface photo 4
         width: 4000
         height: 1848
