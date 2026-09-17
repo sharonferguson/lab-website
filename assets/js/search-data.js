@@ -25,10 +25,17 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "Current and past members and collaborators of SHARE Lab",
+          description: "Current and past members and collaborators of our lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-gallery",
+          title: "Gallery",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
           },
         },{id: "news-in-collaboration-with-dr-alison-olechowski-and-dr-sirisha-rambhatla-sharon-was-awarded-the-microsoft-ai-amp-amp-the-new-future-of-work-grant-for-a-project-titled-a-novel-ai-powered-system-for-building-shared-understanding-in-teams",
           title: 'In collaboration with Dr. Alison Olechowski and Dr. Sirisha Rambhatla, Sharon was awarded...',
