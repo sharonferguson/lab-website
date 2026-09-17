@@ -1,0 +1,100 @@
+## Add a new collection by copying this structure and adding its photos below.
+## Use layout: wide, tall, or feature to vary the grid.
+collections:
+  - title: Summerloo 2026
+    caption: Moments from our spring term and lab socials!
+    photos:
+      - file: summerloo2026_1.jpg
+        alt: Summerloo 2026 photo 1
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_2.jpg
+        alt: Summerloo 2026 photo 2
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_3.jpg
+        alt: Summerloo 2026 photo 3
+        width: 4000
+        height: 1848
+        layout: wide
+      # - file: summerloo2026_4.jpg
+      #   alt: Summerloo 2026 photo 4
+      #   width: 1848
+      #   height: 4000
+      #   layout: tall
+      - file: summerloo2026_5.jpg
+        alt: Summerloo 2026 photo 5
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_6.jpg
+        alt: Summerloo 2026 photo 6
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_7.jpg
+        alt: Summerloo 2026 photo 7
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_8.jpg
+        alt: Summerloo 2026 photo 8
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_9.jpg
+        alt: Summerloo 2026 photo 9
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_10.jpg
+        alt: Summerloo 2026 photo 10
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_11.jpg
+        alt: Summerloo 2026 photo 11
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: summerloo2026_12_hex.jpg
+        alt: Summerloo 2026 photo 12
+        width: 4000
+        height: 1848
+        layout: wide
+      # - file: summerloo2026_13.jpg
+      #   alt: Summerloo 2026 photo 13
+      #   width: 1848
+      #   height: 4000
+      #   layout: tall
+      - file: summerloo2026_14.jpg
+        alt: Summerloo 2026 photo 14
+        width: 4000
+        height: 1848
+        layout: wide
+
+  - title: Graphics Interface
+    caption: Highlights from the Graphics Interface conference, Spring 2026.
+    photos:
+      - file: GraphicsInterface_1.jpg
+        alt: Graphics Interface photo 1
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: GraphicsInterface_2.jpg
+        alt: Graphics Interface photo 2
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: GraphicsInterface_3.jpg
+        alt: Graphics Interface photo 3
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: GraphicsInterface_4.jpg
+        alt: Graphics Interface photo 4
+        width: 4000
+        height: 1848
+        layout: wide
