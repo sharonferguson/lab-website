@@ -26,6 +26,30 @@ collections:
         height: 4000
         layout: wide
   
+  - title: Graphics Interface
+    caption: Highlights from the Graphics Interface conference, Spring 2026.
+    photos:
+      - file: S2026_GI_1.jpg
+        alt: Graphics Interface 2026 photo 1
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: S2026_GI_2.jpg
+        alt: Graphics Interface 2026 photo 2
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: S2026_GI_3.jpg
+        alt: Graphics Interface 2026 photo 3
+        width: 4000
+        height: 1848
+        layout: wide
+      - file: S2026_GI_4.jpg
+        alt: Graphics Interface photo 4
+        width: 4000
+        height: 1848
+        layout: wide
+  
   - title: Summerloo 2026
     caption: Moments from our spring term!
     photos:
@@ -101,30 +125,6 @@ collections:
         layout: wide
       - file: S2026_15.jpg
         alt: Summerloo 2026 photo 15
-        width: 4000
-        height: 1848
-        layout: wide
-
-  - title: Graphics Interface
-    caption: Highlights from the Graphics Interface conference, Spring 2026.
-    photos:
-      - file: S2026_GI_1.jpg
-        alt: Graphics Interface 2026 photo 1
-        width: 4000
-        height: 1848
-        layout: wide
-      - file: S2026_GI_2.jpg
-        alt: Graphics Interface 2026 photo 2
-        width: 4000
-        height: 1848
-        layout: wide
-      - file: S2026_GI_3.jpg
-        alt: Graphics Interface 2026 photo 3
-        width: 4000
-        height: 1848
-        layout: wide
-      - file: S2026_GI_4.jpg
-        alt: Graphics Interface photo 4
         width: 4000
         height: 1848
         layout: wide
