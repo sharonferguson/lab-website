@@ -95,10 +95,16 @@ alumni:
     linkedin: https://www.linkedin.com/in/devonkisob/
 
 collaborators:
+
   - name: Marjan Naghshbandi
     title: MASc Student (University of Toronto)
     photo: /assets/img/marjan.jpg
     linkedin: https://www.linkedin.com/in/marjan-nagh/
+
+  - name: Kevin Chow
+    title: Postdoctoral Associate (New York University)
+    photo: /assets/img/Kevin.jpg
+    linkedin: https://www.linkedin.com/in/kevin-chow-c/
 
   - name: Paula Akemi Aoyagui
     title: UX Lead (Government of Canada)
@@ -111,6 +117,6 @@ collaborators:
     linkedin: https://www.linkedin.com/in/arnavsareen/
 
   - name: Sana Jamal Ansari
-    title: Undergraduate Researcher (U of Management and Technology, Pakistan)
+    title: Undergraduate Researcher (University of Management and Technology, Pakistan)
     photo: /assets/img/Sana.jpg
     linkedin: https://www.linkedin.com/in/sana-jamal-ansari/
