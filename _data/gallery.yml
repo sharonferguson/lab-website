@@ -2,7 +2,7 @@
 ## Use layout: wide, tall, or feature to vary the grid.
 collections:
 
-  - title: Spring Social 2026
+  - title: Spring Social, 2026
     caption: Our end-of-term spring social!
     photos:
       - file: S2026_Social_1.jpg
@@ -21,7 +21,7 @@ collections:
         height: 4000
         layout: feature
   
-  - title: Graphics Interface
+  - title: Graphics Interface, 2026
     caption: Highlights from the Graphics Interface conference, Spring 2026.
     photos:
       - file: S2026_GI_1.jpg
@@ -45,7 +45,7 @@ collections:
         height: 1848
         layout: wide
   
-  - title: Summerloo 2026
+  - title: Summerloo, 2026
     caption: Moments from our spring term!
     photos:
       - file: S2026_1.jpg
