@@ -62,6 +62,33 @@ undergrad:
     photo: /assets/img/Astrid.jpg
     linkedin: https://www.linkedin.com/in/%E7%A0%9A%E7%90%AA-%E8%B0%A2-061327424/
 
+collaborators:
+
+  - name: Kevin Chow
+    title: Postdoctoral Associate (New York University)
+    photo: /assets/img/Kevin.jpg
+    linkedin: https://www.linkedin.com/in/kevin-chow-c/
+
+  - name: Paula Akemi Aoyagui
+    title: UX Lead (Government of Canada)
+    photo: /assets/img/paula.jpg
+    linkedin: https://www.linkedin.com/in/paula-akemi/
+
+  - name: Arnav Sareen
+    title: Undergraduate Researcher (University of North Carolina at Charlotte, USA)
+    photo: /assets/img/Arnav.jpg
+    linkedin: https://www.linkedin.com/in/arnavsareen/
+
+  - name: Sana Jamal Ansari
+    title: Undergraduate Researcher (University of Management and Technology, Pakistan)
+    photo: /assets/img/Sana.jpg
+    linkedin: https://www.linkedin.com/in/sana-jamal-ansari/
+
+  - name: Marjan Naghshbandi
+    title: MASc Graduate (University of Toronto)
+    photo: /assets/img/marjan.jpg
+    linkedin: https://www.linkedin.com/in/marjan-nagh/
+
 alumni:
 
   - name: Vladyslav Humennyy
@@ -93,30 +120,3 @@ alumni:
     title: Undergraduate Research Assistant (2025)
     photo: /assets/img/Devon.jpg
     linkedin: https://www.linkedin.com/in/devonkisob/
-
-collaborators:
-
-  - name: Marjan Naghshbandi
-    title: MASc Student (University of Toronto)
-    photo: /assets/img/marjan.jpg
-    linkedin: https://www.linkedin.com/in/marjan-nagh/
-
-  - name: Kevin Chow
-    title: Postdoctoral Associate (New York University)
-    photo: /assets/img/Kevin.jpg
-    linkedin: https://www.linkedin.com/in/kevin-chow-c/
-
-  - name: Paula Akemi Aoyagui
-    title: UX Lead (Government of Canada)
-    photo: /assets/img/paula.jpg
-    linkedin: https://www.linkedin.com/in/paula-akemi/
-
-  - name: Arnav Sareen
-    title: Undergraduate Researcher (University of North Carolina at Charlotte, USA)
-    photo: /assets/img/Arnav.jpg
-    linkedin: https://www.linkedin.com/in/arnavsareen/
-
-  - name: Sana Jamal Ansari
-    title: Undergraduate Researcher (University of Management and Technology, Pakistan)
-    photo: /assets/img/Sana.jpg
-    linkedin: https://www.linkedin.com/in/sana-jamal-ansari/
