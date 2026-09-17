@@ -30,7 +30,7 @@ nav_order: 4
 ## Graduate Students
 {% include people-grid.liquid list=site.data.people.masters %}
 
-## Undergraduate Assistants
+## Undergraduate Students
 {% include people-grid.liquid list=site.data.people.undergrad %}
 
 ## Collaborators

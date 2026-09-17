@@ -57,10 +57,25 @@ undergrad:
     photo: /assets/img/Drishti.jpg
     linkedin: https://www.linkedin.com/in/drishti-gadi/
 
+  - name: Arnav Sareen
+    title: Undergraduate Researcher (University of North Carolina at Charlotte, USA)
+    photo: /assets/img/Arnav.jpg
+    linkedin: https://www.linkedin.com/in/arnavsareen/
+
+  - name: Sana Jamal Ansari
+    title: Undergraduate Researcher (Lahore University of Management Sciences, Pakistan)
+    photo: /assets/img/Sana.jpg
+    linkedin: https://www.linkedin.com/in/sana-jamal-ansari/
+  
   - name: Astrid Xie
     title: Mitacs Research Student
     photo: /assets/img/Astrid.jpg
     linkedin: https://www.linkedin.com/in/%E7%A0%9A%E7%90%AA-%E8%B0%A2-061327424/
+
+  - name: Ruhi Gill
+    title: Undergraduate Research Assistant
+    photo: /assets/img/Ruhi.jpg
+    linkedin: https://www.linkedin.com/in/ruhi-gill
 
 collaborators:
 
@@ -74,20 +89,15 @@ collaborators:
     photo: /assets/img/paula.jpg
     linkedin: https://www.linkedin.com/in/paula-akemi/
 
-  - name: Arnav Sareen
-    title: Undergraduate Researcher (University of North Carolina at Charlotte, USA)
-    photo: /assets/img/Arnav.jpg
-    linkedin: https://www.linkedin.com/in/arnavsareen/
-
-  - name: Sana Jamal Ansari
-    title: Undergraduate Researcher (University of Management and Technology, Pakistan)
-    photo: /assets/img/Sana.jpg
-    linkedin: https://www.linkedin.com/in/sana-jamal-ansari/
-
   - name: Marjan Naghshbandi
     title: MASc Graduate (University of Toronto)
     photo: /assets/img/marjan.jpg
     linkedin: https://www.linkedin.com/in/marjan-nagh/
+
+  - name: Ada Hurst
+    title: Associate Professor (University of Waterloo)
+    photo: /assets/img/Ada.jpg
+    linkedin: https://www.linkedin.com/in/ada-hurst-4a91a720/
 
 alumni:
 
