@@ -35,7 +35,7 @@ _styles: |
 
   .gallery-tile.feature {
     grid-column: span 12;
-    grid-row: span 6;
+    grid-row: span 4;
   }
 
   .gallery-tile img {
