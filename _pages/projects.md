@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A broad overview of the SHARE Lab areas of research
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 

@@ -29,6 +29,7 @@ _styles: |
   }
 
   .gallery-tile.tall {
+    grid-column: span 6;
     grid-row: span 5;
   }
 
@@ -43,6 +44,17 @@ _styles: |
     height: 100%;
     object-fit: cover;
     transition: transform 180ms ease;
+  }
+
+  .gallery-tile.reveal-ready {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 600ms ease, transform 600ms ease;
+  }
+
+  .gallery-tile.reveal-ready.is-visible {
+    opacity: 1;
+    transform: translateY(0);
   }
 
   .gallery-tile:hover img {
@@ -109,3 +121,27 @@ _styles: |
     </div>
   </section>
 {% endfor %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const tiles = document.querySelectorAll(".gallery-tile");
+
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches || !("IntersectionObserver" in window)) {
+      return;
+    }
+
+    tiles.forEach((tile) => tile.classList.add("reveal-ready"));
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+        } else {
+          entry.target.classList.remove("is-visible");
+        }
+      });
+    }, { threshold: 0.12 });
+
+    tiles.forEach((tile) => observer.observe(tile));
+  });
+</script>
