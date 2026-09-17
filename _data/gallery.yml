@@ -17,11 +17,6 @@ collections:
         layout: wide
       - file: S2026_Social_3.jpg
         alt: Spring Social 2026 photo 3
-        width: 4000
-        height: 1848
-        layout: wide
-      - file: S2026_Social_4.jpg
-        alt: Spring Social 2026 photo 4
         width: 2300
         height: 4000
         layout: feature
