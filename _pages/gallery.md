@@ -34,8 +34,8 @@ _styles: |
   }
 
   .gallery-tile.feature {
-    grid-column: span 6;
-    grid-row: span 5;
+    grid-column: span 12;
+    grid-row: span 6;
   }
 
   .gallery-tile img {

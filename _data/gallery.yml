@@ -9,7 +9,7 @@ collections:
         alt: Spring Social 2026 photo 1
         width: 4000
         height: 1848
-        layout: wide
+        layout: feature
       - file: S2026_Social_2.jpg
         alt: Spring Social 2026 photo 2
         width: 4000
@@ -22,9 +22,9 @@ collections:
         layout: wide
       - file: S2026_Social_4.jpg
         alt: Spring Social 2026 photo 4
-        width: 1848
+        width: 2300
         height: 4000
-        layout: wide
+        layout: feature
   
   - title: Graphics Interface
     caption: Highlights from the Graphics Interface conference, Spring 2026.
