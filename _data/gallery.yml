@@ -12,13 +12,13 @@ collections:
         layout: feature
       - file: S2026_Social_2.jpg
         alt: Spring Social 2026 photo 2
-        width: 4000
+        width: 3000
         height: 1848
         layout: wide
       - file: S2026_Social_3.jpg
         alt: Spring Social 2026 photo 3
-        width: 2300
-        height: 4000
+        width: 4000
+        height: 1848
         layout: feature
   
   - title: Graphics Interface, 2026
@@ -65,8 +65,8 @@ collections:
         layout: wide
       - file: S2026_4.jpg
         alt: Summerloo 2026 photo 4
-        width: 1848
-        height: 4000
+        width: 4000
+        height: 1848
         layout: wide
       - file: S2026_5.jpg
         alt: Summerloo 2026 photo 5
@@ -80,12 +80,12 @@ collections:
         layout: wide
       - file: S2026_7.jpg
         alt: Summerloo 2026 photo 7
-        width: 4000
+        width: 1000
         height: 1848
         layout: tall
       - file: S2026_8.jpg
         alt: Summerloo 2026 photo 8
-        width: 4000
+        width: 1000
         height: 1848
         layout: tall
       - file: S2026_9.jpg
@@ -100,18 +100,18 @@ collections:
         layout: wide
       - file: S2026_11.jpg
         alt: Summerloo 2026 photo 11
-        width: 4000
+        width: 3000
         height: 1848
         layout: wide
       - file: S2026_12.jpg
         alt: Summerloo 2026 photo 12
-        width: 4000
+        width: 3000
         height: 1848
         layout: wide
       - file: S2026_13.jpg
         alt: Summerloo 2026 photo 13
         width: 1848
-        height: 4000
+        height: 1848
         layout: wide
       - file: S2026_14.jpg
         alt: Summerloo 2026 photo 14
