@@ -82,7 +82,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-lab-doubled-in-size-in-may-keenan-ung-and-kate-percy-robb-are-joining-zayn-and-sofiia-as-masc-students",
           title: 'Our lab doubled in size in May! Keenan Ung and Kate Percy-Robb are...',
           description: "",
-          section: "News",},{id: "news-four-new-research-students-will-be-joining-us-for-the-summer-welcome-jewel-drishti-marwa-and-arnav",
+          section: "News",},{id: "news-four-new-research-students-will-be-joining-us-for-the-summer-welcome-jewel-drishti-marwa-arnav-and-sana",
           title: 'Four new research students will be joining us for the summer! Welcome: Jewel,...',
           description: "",
           section: "News",},{id: "news-congratulations-to-our-university-of-toronto-collaborator-marjan-on-successfully-defending-her-master-s-thesis-the-share-lab-is-incredibly-proud",
