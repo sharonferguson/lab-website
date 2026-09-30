@@ -82,6 +82,11 @@ undergrad:
     photo: /assets/img/Ruhi.jpg
     linkedin: https://www.linkedin.com/in/ruhi-gill
 
+  - name: Divyanshi Dave
+    title: Undergraduate Research Assistant
+    photo: /assets/img/Divyanshi.png
+    linkedin: https://www.linkedin.com/in/divyanshidave/
+
 collaborators:
 
   - name: Kevin Chow
