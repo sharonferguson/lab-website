@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four new research students will be joining us for the summer! Welcome: Jewel, Drishti, Marwa, and Arnav!
+Four new research students will be joining us for the summer! Welcome: Jewel, Drishti, Marwa, Arnav, and Sana!
